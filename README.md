@@ -1,8 +1,8 @@
 
 
 
-### Hi there 👋, My name is Enes.
-#### I am an Electrical Electronics Engineer.
+### Hi there 👋
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesrizayilmaz)](https://github.com/anuraghazra/github-readme-stats)
 
