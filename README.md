@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesrizayilmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Enes Rıza Yılmaz. I'm an Electrical Electronics Engineer. I developed myself of Android Development and Back-End technologies.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesrizayilmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: JAVA | C# | HTML | CSS | JS | SQL | DOCKER
 
