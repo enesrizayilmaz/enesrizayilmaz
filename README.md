@@ -12,7 +12,7 @@ I'm Enes Rıza Yılmaz. I'm an Electrical Electronics Engineer. I developed myse
 
 Skills: JAVA | C# | HTML | CSS | JS | SQL | DOCKER
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Java Spring Boot  
 
 
