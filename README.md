@@ -34,7 +34,7 @@ I'm Enes Rıza Yılmaz. I'm an Electrical Electronics Engineer. I developed myse
 <img title="PlayStore" alt="PlayStore" src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Logo.wine.svg"  width="150" height="150"/> 
 </a>
 
-- 🌱 I’m currently learning Java Spring Boot, Docker
+
 
 
 
