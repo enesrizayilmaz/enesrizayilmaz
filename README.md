@@ -5,7 +5,7 @@
 
 
 I'm Enes Rıza Yılmaz. 
-I'm an Electrical Electronics Engineer and Back-End Developer, Android Developer.
+I'm an Electrical Electronics Engineer, Back-End Developer and Android Developer.
 
 - 📫 How to reach me **e.riza99@hotmail.com**
 
