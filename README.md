@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-I'm Enes Rıza Yılmaz. #\n
+I'm Enes Rıza Yılmaz.
 I'm Back-End Developer and Android Developer.
 
 - 📫 How to reach me **e.riza99@hotmail.com**
