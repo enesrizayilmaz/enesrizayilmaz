@@ -14,7 +14,7 @@
 <li> 🌱 I’m currently learning <strong>Spring, PostgreSQL</li>
  </div>
  
-### Softwares
+## Softwares
 
 <p align="center">
 <img title="JAVA" alt="JAVA" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.svg"  width="50" height="50"/>
@@ -27,14 +27,14 @@
 <img title="Git" alt="Git" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"  width="45" height="45"/> 
 </p>
 
-### My Android Apps
+## My Android Apps
 
 
 <a href="https://play.google.com/store/apps/dev?id=7480464944312492898&hl=tr&gl=US" target="_blank">
 <img title="PlayStore" alt="PlayStore" src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Logo.wine.svg"  width="150" height="150"/> 
 </a>
 
-### My Links
+## My Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/enesrizayilmaz//) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/enesrizayilmaz1)  
