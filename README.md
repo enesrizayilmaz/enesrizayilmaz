@@ -1,9 +1,10 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-<img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=enesrizayilmaz&show_icons=true&theme=radical&count_private=true">
+<img align="center" alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=enesrizayilmaz&show_icons=true&theme=radical&count_private=true">
 
-<img alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesrizayilmaz&layout=compact">
+<img align="center" alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesrizayilmaz&layout=compact">
+
 ![Profile views](https://gpvc.arturio.dev/enesrizayilmaz)  
 
 - 📫 How to reach me **e.riza99@hotmail.com**
