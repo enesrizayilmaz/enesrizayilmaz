@@ -9,8 +9,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/enesrizayilmaz)  
 
+<div align="center">
 - 📫 How to reach me **e.riza99@hotmail.com**
 - 🌱 I’m currently learning <strong>Spring, PostgreSQL
+ </div>
  
 ### Softwares
 
