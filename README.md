@@ -3,7 +3,8 @@
 
 <p align="center"><img  alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=enesrizayilmaz&show_icons=true&theme=radical&count_private=true"></p>
 
-<img align="center" alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesrizayilmaz&layout=compact">
+<p align="center">
+<img align="center" alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesrizayilmaz&layout=compact"></p>
 
 ![Profile views](https://gpvc.arturio.dev/enesrizayilmaz)  
 
