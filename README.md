@@ -5,7 +5,7 @@
 
 
 I'm Enes Rıza Yılmaz.
-Back-End Developer and Android Developer.
+Full Stack Java Developer.
 
 - 📫 How to reach me **e.riza99@hotmail.com**
 
