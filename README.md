@@ -1,7 +1,8 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesrizayilmaz)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=enesrizayilmaz&show_icons=true&theme=radical&count_private=true">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesrizayilmaz)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/enesrizayilmaz)  
 
@@ -32,6 +33,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/enesrizayilmaz1)  
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enesrizayilmaz)  
-
+ <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=enesrizayilmaz&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
 
