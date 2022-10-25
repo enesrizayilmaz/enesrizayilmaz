@@ -10,7 +10,7 @@
 ![Profile views](https://gpvc.arturio.dev/enesrizayilmaz)  
 
 <div align="center">
-<li> 📫 How to reach me **e.riza99@hotmail.com**</li>
+<li> 📫 How to reach me e.riza99@hotmail.com</li>
 <li> 🌱 I’m currently learning <strong>Spring, PostgreSQL</li>
  </div>
  
