@@ -1,6 +1,10 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
+<p align="center">
+I developed myself on Full Stack Java Developer. I have focused on developing clean, understandable, well-documented code.
+</p>
+
 <p align="center"><img  alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=enesrizayilmaz&show_icons=true&theme=radical&count_private=true"></p>
 
 <p align="center">
