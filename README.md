@@ -6,13 +6,14 @@
 <p align="center">
 <img align="center" alt="Readme Stats Top Lang" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesrizayilmaz&layout=compact"></p>
 <div align="center">
+
 ![Profile views](https://gpvc.arturio.dev/enesrizayilmaz)  
 
 - 📫 How to reach me **e.riza99@hotmail.com**
 - 🌱 I’m currently learning <strong>Spring, PostgreSQL
 ### Softwares
 
-<p align="justify">
+<p align="center">
 <img title="JAVA" alt="JAVA" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.svg"  width="50" height="50"/>
 <img title="HTML" alt="web" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg"  width="50" height="50"/>
 <img title="CSS" alt="web" src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg"  width="50" height="50"/> 
