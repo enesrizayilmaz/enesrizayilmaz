@@ -2,6 +2,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 <p align="center">
+I'm Enes Rıza Yılmaz.
 I developed myself on Full Stack Java Developer. I have focused on developing clean, understandable, well-documented code.
 </p>
 
