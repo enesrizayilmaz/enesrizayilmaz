@@ -3,7 +3,7 @@
 
 <p align="center">
 I'm Enes Rıza Yılmaz.
-I developed myself on Full Stack Java Developer. I have focused on developing clean, understandable, well-documented code.
+I developed myself on Full Stack Java Developer. I have focused on developing clean, scalable and well-documented code. I believe that my algorithm skills are strong, so I have no trouble adapting to new technologies.
 </p>
 
 <p align="center"><img  alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=enesrizayilmaz&show_icons=true&theme=radical&count_private=true"></p>
