@@ -45,6 +45,5 @@ I developed myself on Full Stack Java Developer. I have focused on developing cl
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/enesrizayilmaz1)  
 
 
- <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=enesrizayilmaz&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-
+ 
 </div>
